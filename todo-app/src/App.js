@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="todo-app">
       <TodoList />
+      <footer className="footer">Created With 💟 By: Benjamin Ortiz Jr.</footer>
     </div>
   );
 }
